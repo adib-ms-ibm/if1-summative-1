@@ -22,4 +22,4 @@
 from quiz import quiz
 
 if __name__ == "__main__":
-    quiz()
+  quiz()

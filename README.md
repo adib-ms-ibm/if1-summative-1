@@ -175,8 +175,8 @@ This program consists of four Python modules:
 
 ## Customization:
 There is some flexibility to this program if the user wishes to alter the script:
-- **Number of Lives**: Modify the `lives` variable in `quiz.py`.
-- **Questions Per Round**: Adjust the `q_per_round` variable in `quiz.py`.
+- **Number of Lives**: Modify the `lives` variable in `quiz.py`
+- **Questions Per Round**: Adjust the `q_per_round` variable in `quiz.py`
 
 ---
 

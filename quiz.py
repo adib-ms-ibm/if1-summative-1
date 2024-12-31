@@ -25,7 +25,7 @@ from    check_answer        import check_answer
 
 def quiz():
 
-  # initialise variables
+  # Initialise variables
   score = 0
   total_questions = 0
   lives = 3
@@ -48,7 +48,7 @@ def quiz():
       equation, solution = generate_linear_eq()
 
       total_questions += 1
-      
+
       print(f"\n\nQ{total_questions}) Solve for x:")
       print(f"\n    {equation}\n\n")
 

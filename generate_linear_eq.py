@@ -7,7 +7,7 @@
     - equation is formatted as a string, omitting coefficients or constants where appropriate
 
   Returns:
-      tuple: a string representing the linear equation and the correct solution for x
+    tuple: a string representing the linear equation and the correct solution for x
 """
 
 import random
